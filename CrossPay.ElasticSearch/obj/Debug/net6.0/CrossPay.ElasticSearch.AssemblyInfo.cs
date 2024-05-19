@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrossPay.ElasticSearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06ff5988165413458e71b3cb5d2a698715096ac8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7994da9592362c7f860f01494cf5b0843e67969f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrossPay.ElasticSearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrossPay.ElasticSearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

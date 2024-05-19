@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9qyaCDWFrxSqffvUUoddYu88BYkVYlOafgREwv934j3Ll4LBDbfl1gKcu8PQB26bd0Zfma9h98B35WdEyNGvJw==",
+  "dgSpecHash": "UdMulWtiUOKNBsAiqBTC4xf2BWx4sFeWwQN/0Ekc9YTTn9hNsj93ApkPeVePfVca1/ino0GPFdivp1XCfu0R/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch.csproj",
+  "projectFilePath": "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch\\CrossPay.ElasticSearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dubem007\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Dubem007\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

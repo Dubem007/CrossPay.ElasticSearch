@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch.csproj": {}
+    "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch\\CrossPay.ElasticSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch.csproj": {
+    "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch\\CrossPay.ElasticSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch.csproj",
+        "projectUniqueName": "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch\\CrossPay.ElasticSearch.csproj",
         "projectName": "CrossPay.ElasticSearch",
-        "projectPath": "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch.csproj",
+        "projectPath": "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch\\CrossPay.ElasticSearch.csproj",
         "packagesPath": "C:\\Users\\Dubem007\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossBorda.ElasticSearch\\obj\\",
+        "outputPath": "C:\\Users\\Dubem007\\source\\repos\\CrossBorda.ElasticSearch\\CrossPay.ElasticSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
