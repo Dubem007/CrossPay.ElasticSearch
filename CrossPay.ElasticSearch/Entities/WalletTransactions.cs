@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using CrossPay.ElasticSearch.Entities.Enums;
+
+namespace CrossPay.ElasticSearch.Entities
+{
+    public class WalletTransactions : BaseEntity<Guid>
+    {
+        public Guid WalletId { get; set; }
+        public string? SourceAccount { get; set; }
+        public string? SourceAccountName { get; set; }
+        public string? SourceCurrency { get; set; }
+        public string? DestinationAccount { get; set; }
+        public string? DestinationAccountName { get; set; }
+        public string? DestinationInstitutionName { get; set; }
+        public string? DestinationCurrency { get; set; }
+        [Column(TypeName = "decimal(18,2)")]
+        public decimal? Amount { get; set; }
+        public string? Currency { get; set; }
+        public string? Narration { get; set; }
+        public string? TransactionStatus { get; set; }
+        public string? TransactionStatusDescription { get; set; }
+        public DateTime? TransactionDate { get; set; }
+        public string? DestinationBankCode { get; set; }
+        public string? DestinationBankName { get; set; }
+        public TransactionType? TransactionType { get; set; }
+        public OperationType? OperationType { get; set; }
+        public string? Provider { get; set; }
+        public long? UserId { get; set; }
+        public decimal? DebitAmount { get; set; } = 0;
+        [Required]
+        public string? DebitCurrency { get; set; } = string.Empty;
+        public decimal? CreditAmount { get; set; } = 0;
+        [Required]
+        public string? CreditCurrency { get; set; } = string.Empty;
+        
+
+    }
+}
